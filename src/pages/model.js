@@ -77,27 +77,27 @@ const Model = ({ imageDetails }) => {
               }}
               className='details'>
               <div className='location'>
-                <span>28.538336</span>
-                <span>-81.379234</span>
+                <span>RAKTA</span>
+                <span>DHATU</span>
               </div>
-              <div className='mua'>MUA: @mylifeascrystall</div>
+              <div className='mua'>@nagaiatato</div>
             </motion.div>
             <motion.div className='model'>
               <motion.span className='first' variants={firstName}>
-                <motion.span variants={letter}>Y</motion.span>
+                <motion.span variants={letter}>N</motion.span>
                 <motion.span variants={letter}>a</motion.span>
-                <motion.span variants={letter}>s</motion.span>
-                <motion.span variants={letter}>m</motion.span>
-                <motion.span variants={letter}>e</motion.span>
-                <motion.span variants={letter}>e</motion.span>
-                <motion.span variants={letter}>n</motion.span>
+                <motion.span variants={letter}>g</motion.span>
+                <motion.span variants={letter}>a</motion.span>
+                <motion.span variants={letter}>i</motion.span>
+                <motion.span variants={letter}>a</motion.span>
+
               </motion.span>
               <motion.span className='last' variants={lastName}>
                 <motion.span variants={letter}>T</motion.span>
                 <motion.span variants={letter}>a</motion.span>
-                <motion.span variants={letter}>r</motion.span>
-                <motion.span variants={letter}>i</motion.span>
-                <motion.span variants={letter}>q</motion.span>
+                <motion.span variants={letter}>s</motion.span>
+                <motion.span variants={letter}>h</motion.span>
+                <motion.span variants={letter}>a</motion.span>
               </motion.span>
             </motion.div>
           </div>
